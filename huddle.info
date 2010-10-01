@@ -16,6 +16,11 @@ screenshot = screenshot.png
 core       = 6.x
 base theme = doune
 
+stylesheets[all][] = styles/type.less
+stylesheets[all][] = styles/branding.less
+stylesheets[all][] = styles/local.less
+
+
   ; The regions defined in Zen's default page.tpl.php file.  The name in
   ; brackets is the name of the variable in the page.tpl.php file, (e.g.
   ; "[content_top]" in the .info file means there should be a $content_top
