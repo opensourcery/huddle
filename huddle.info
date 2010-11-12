@@ -19,3 +19,4 @@ regions[footer]         = Footer
 regions[page_closure]   = Page closure
 
 project status url = "http://code.opensourcery.com/fserver"
+version = "6.x-1.0-alpha1"
