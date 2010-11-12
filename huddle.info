@@ -17,3 +17,5 @@ regions[content_bottom] = Content bottom
 regions[header]         = Header
 regions[footer]         = Footer
 regions[page_closure]   = Page closure
+
+project status url = "http://code.opensourcery.com/fserver"
