@@ -1,0 +1,27 @@
+/* Context editor specific */
+.context-editor-block-layouts .form-item {
+  padding:0px;
+  display:inline;
+}
+
+form.context-editor .item-list { display:none; }
+form.context-editor .buttons { display:block; }
+
+.context-editable { padding:0px; }
+
+.draggable-placeholder,
+.context-block-addable {
+  float:left;
+  width:167px;
+  margin:0px 5px 5px 0px;
+}
+
+.context-block-browser .category { padding:5px 0px 0px 5px; }
+
+.context-block-browser {
+  margin:5px 0px;
+  padding:5px;
+  background:#ddd;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+}

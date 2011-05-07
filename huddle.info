@@ -7,6 +7,7 @@ base theme = doune
 stylesheets[all][] = styles/basics.less
 stylesheets[all][] = styles/branding.less
 stylesheets[all][] = styles/local.less
+stylesheets[all][] = styles/huddle.css
 
 regions[sidebar_first]  = First sidebar
 regions[sidebar_second] = Second sidebar
