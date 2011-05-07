@@ -9,6 +9,8 @@ stylesheets[all][] = styles/branding.less
 stylesheets[all][] = styles/local.less
 stylesheets[all][] = styles/huddle.css
 
+scripts[] = js/huddle.js
+
 regions[sidebar_first]  = First sidebar
 regions[sidebar_second] = Second sidebar
 regions[navigation]     = Navigation bar
