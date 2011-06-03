@@ -4,10 +4,7 @@ description = Donor Rally Theme
 core       = 7.x
 base theme = doune
 
-stylesheets[all][] = styles/basics.less
-stylesheets[all][] = styles/branding.less
-stylesheets[all][] = styles/local.less
-stylesheets[all][] = styles/huddle.css
+stylesheets[all][] = css/huddle.css
 
 scripts[] = js/huddle.js
 
