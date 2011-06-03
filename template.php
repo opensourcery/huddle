@@ -2,9 +2,8 @@
 // $Id$
 
 /**
- * Implementation of hook_theme().
+ * Implements hook_doune_layouts_alter().
  */
-function huddle_theme(&$existing, $type, $theme, $path) {
-  $hooks = doune_theme($existing, $type, $theme, $path);
-  return $hooks;
+function huddle_doune_layouts_alter(&$layouts) {
+  // TODO: Define Huddle specific layouts
 }

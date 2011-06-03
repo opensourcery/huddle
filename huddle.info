@@ -1,7 +1,7 @@
 ; $Id$
 name        = Huddle
 description = Donor Rally Theme
-core       = 6.x
+core       = 7.x
 base theme = doune
 
 stylesheets[all][] = styles/basics.less
